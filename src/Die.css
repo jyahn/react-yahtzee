@@ -10,5 +10,5 @@
 }
 
 .Die-locked {
-  background-color: darkred;
+  filter: grayscale()
 }
